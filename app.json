@@ -2,7 +2,7 @@
 	"name": "MonitoRSS",
 	"description": "Discord RSS bot with customizable feeds",
 	"website": "https://github.com/synzen/MonitoRSS",
-	"logo": "https://discordapp.com/assets/d36b33903dafb0107bb067b55bdd9cbc.svg",
+	"logo": "https://raw.githubusercontent.com/CORDTOWN/MonitoRSS-Clone/master/logo.png",
 	"keywords": [
 		"discord",
 		"bot",
