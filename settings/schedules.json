@@ -6,13 +6,6 @@
       "feed43.com"
     ]
   },
-  "politepol": {
-    "refreshRateMinutes": 30,
-    "keywords": [
-      "politepol",
-      "politepol.com"
-    ]
-  },
   "instagram": {
     "refreshRateMinutes": 480,
     "keywords": [
