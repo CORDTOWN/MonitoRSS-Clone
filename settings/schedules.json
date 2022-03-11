@@ -1,15 +1,22 @@
 {
-    "feed43": {
-        "refreshRateMinutes": 180,
-        "keywords": [
-            "feed43",
-            "feed43.com"
-        ]
-    },
-    "instagram": {
-        "refreshRateMinutes": 480,
-        "keywords": [
-            "instagram"
-        ]
-    }
+  "feed43": {
+    "refreshRateMinutes": 200,
+    "keywords": [
+      "feed43",
+      "feed43.com"
+    ]
+  },
+  "politepol": {
+    "refreshRateMinutes": 30,
+    "keywords": [
+      "politepol",
+      "politepol.com"
+    ]
+  },
+  "instagram": {
+    "refreshRateMinutes": 480,
+    "keywords": [
+      "instagram"
+    ]
+  }
 }
